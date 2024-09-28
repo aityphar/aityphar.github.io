@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aityphar.github.io/sitemap.aityphar.gz
+Sitemap: https://aityphar.github.io/app/sitemap.aityphar.gz
+Sitemap: https://aityphar.github.io/assets/sitemap.aityphar.gz
+Sitemap: https://aityphar.github.io/css/sitemap.aityphar.gz
+Sitemap: https://aityphar.github.io/data/sitemap.aityphar.gz
+Sitemap: https://aityphar.github.io/includes/sitemap.aityphar.gz
+Sitemap: https://aityphar.github.io/item/sitemap.aityphar.gz
+Sitemap: https://aityphar.github.io/src/sitemap.aityphar.gz
