@@ -1,0 +1,13 @@
+.uil {
+  font-family: 'Unicons' !important;
+  font-style: normal;
+  font-weight: normal;
+  display: inline-block;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uil-bars:before { content: '\ebae'; }
+.uil-shopping-bag:before { content: '\e887'; }
+.uil-search:before { content: '\e99a'; }

@@ -1,0 +1,10 @@
+https://estubes.github.io/ar-sitemap/sitemap-006.txt.gz
+https://estubes.github.io/ar-sitemap/sitemap-005.txt.gz
+https://estubes.github.io/ar-sitemap/sitemap-008.txt.gz
+https://estubes.github.io/ar-sitemap/sitemap-007.txt.gz
+https://estubes.github.io/ar-sitemap/sitemap-000.txt.gz
+https://estubes.github.io/ar-sitemap/sitemap-004.txt.gz
+https://estubes.github.io/ar-sitemap/sitemap-009.txt.gz
+https://estubes.github.io/ar-sitemap/sitemap-002.txt.gz
+https://estubes.github.io/ar-sitemap/sitemap-003.txt.gz
+https://estubes.github.io/ar-sitemap/sitemap-001.txt.gz
